@@ -27,7 +27,7 @@ function convertToRoman(num) {
                 arr.push(romanChars[100]);
                 }
             } else if (digit <= 899) {
-                if (digit === 500) {
+                if (digit >= 500 && digit < 600) {
                     arr.push(romanChars[500]);
                 } else if (digit - 500 > 0) {
                     arr.push(romanChars[500]);
@@ -51,7 +51,7 @@ function convertToRoman(num) {
                 arr.push(romanChars[10]);
                 }
             } else if (digit <= 89) {
-                if (digit === 50) {
+                if (digit >= 50 && digit < 60) {
                     arr.push(romanChars[50]);
                 } else if (digit - 50 > 0) {
                     arr.push(romanChars[50]);
