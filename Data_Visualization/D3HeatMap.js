@@ -108,16 +108,13 @@ d3.json(url, (data) => {
       .on('mouseover', (d) => {
                                
                                tooltip.transition().duration(200).style('opacity', 0.8);
-                               tooltip.html(`<div>${d.year} - ${formatMonth(d.month)}</div><div>T: ${(d.variance + base).toFixed(1)}℃</div>`)
+                               tooltip.html(`<div>${d.year} - ${months[d.month - 1]}</div><div>T: ${(d.variance + base).toFixed(1)}℃</div>`)
                                       .attr('data-year', d.year)
                                       .style('left', `${d3.event.clientX + 40}px`)
                                       .style('top', `${d3.event.clientY + 40}px`)
                                       .style('class', 'bg-dark text-light');
                              })
      .on('mouseout', () => tooltip.transition().duration(300).style('opacity', 0));
-  // Tooltip
-
-  
   
   // Legend
   let legendValues =[]
