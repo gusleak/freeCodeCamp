@@ -1,5 +1,5 @@
 # freeCodeCamp
-Highlights from the challenges on freeCodeCamp.org
+Highlights from the challenges on freeCodeCamp.org.
 
 Collected certifications:
 
