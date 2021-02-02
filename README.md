@@ -9,3 +9,4 @@ Collected certifications:
 - [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/gusleak/javascript-algorithms-and-data-structures)
 - [Quality Assurance](https://www.freecodecamp.org/certification/gusleak/quality-assurance-v7)
 - [Responsive Web Design](https://www.freecodecamp.org/certification/gusleak/responsive-web-design)
+- [Scientific Computing with Python](https://www.freecodecamp.org/certification/gusleak/scientific-computing-with-python-v7)
