@@ -1,4 +1,4 @@
-# Solution based on Telez's script on [rpscontest.com](http://www.rpscontest.com/)
+# Solution based on Telez's script on http://www.rpscontest.com/
 import random
 
 
