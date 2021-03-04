@@ -9,6 +9,7 @@ Collected certifications:
 - [Front End Libraries](https://www.freecodecamp.org/certification/gusleak/front-end-libraries)
 - [Information Security](https://www.freecodecamp.org/certification/gusleak/information-security-v7)
 - [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/gusleak/javascript-algorithms-and-data-structures)
+- [Legacy Full Stack](https://www.freecodecamp.org/certification/gusleak/full-stack)
 - [Machine Learning with Python](https://www.freecodecamp.org/certification/gusleak/machine-learning-with-python-v7)
 - [Quality Assurance](https://www.freecodecamp.org/certification/gusleak/quality-assurance-v7)
 - [Responsive Web Design](https://www.freecodecamp.org/certification/gusleak/responsive-web-design)
